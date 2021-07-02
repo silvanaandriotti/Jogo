@@ -1,2 +1,2 @@
 # Jogo
- projeto jogo oficial
+ Projeto jogo oficial.
